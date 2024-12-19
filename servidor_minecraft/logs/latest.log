@@ -1452,3 +1452,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 19:33:08.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [19Dec2024 19:39:43.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [19Dec2024 19:41:07.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 3.502184550661241,1.022162766580692,-9.883728102104214
+[19Dec2024 19:46:06.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/mechanics/HeavyMachineGunEntity$Direction
+[19Dec2024 19:47:51.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ClinicaSanPablo: Location (473.75, 65.06970703601837, 368.20697724819183) too far away from hit block BlockPos{x=474, y=64, z=369}.
+[19Dec2024 19:48:01.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 19:48:01.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
