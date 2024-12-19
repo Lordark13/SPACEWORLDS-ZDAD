@@ -1304,3 +1304,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 21:24:02.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -2.001686173654889,-4.2955603844747685,14.106476250815831
 [19Dec2024 21:24:02.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -1.9956469473872858,-4.236427669178028,14.083270274809365
 [19Dec2024 21:24:02.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! -1.9343906641342983,-4.176074636561339,13.891113294473143
+[19Dec2024 21:28:57.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Dec2024 21:32:27.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 joined zombies.
