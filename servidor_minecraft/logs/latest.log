@@ -2490,3 +2490,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 23:15:07.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2435, y=80, z=-4182} BlockPos{x=2435, y=78, z=-4182}
 [19Dec2024 23:15:07.822] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
 [19Dec2024 23:17:50.724] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:20:02.321] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:21:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[19Dec2024 23:21:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: a
+[19Dec2024 23:21:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Bandager17: a
+[19Dec2024 23:25:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ was slain by Zombie
+[19Dec2024 23:25:13.575] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> joder macho
+[19Dec2024 23:25:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: xd
+[19Dec2024 23:25:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Bandager17: xd
+[19Dec2024 23:25:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: xd
+[19Dec2024 23:25:36.080] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> OSTIA
+[19Dec2024 23:25:38.332] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> f
+[19Dec2024 23:25:44.508] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> F sota
+[19Dec2024 23:25:45.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 23:25:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 23:25:49.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:42465] logged in with entity id 176030 at (-1570.2157946910597, 59.0, 772.633189943537)
+[19Dec2024 23:25:49.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 23:26:30.121] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
