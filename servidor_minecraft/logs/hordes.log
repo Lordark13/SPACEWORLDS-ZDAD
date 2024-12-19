@@ -260,3 +260,7 @@ Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
 Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
 Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
 Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+Failed loading table minecraft:1, loading fallback table hordes:fallback
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@50947c9c
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0

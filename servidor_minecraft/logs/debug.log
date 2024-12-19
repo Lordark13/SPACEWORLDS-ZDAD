@@ -7595,3 +7595,104 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 22:38:55.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
 [19Dec2024 22:38:55.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
 [19Dec2024 22:39:06.291] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> riotn
+[19Dec2024 22:39:09.244] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ?
+[19Dec2024 22:39:21.953] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> esq lo abia escrito mal xd
+[19Dec2024 22:39:29.021] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:39:31.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set the time to 13000]
+[19Dec2024 22:39:35.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 22:39:35.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 22:40:03.720] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:40:17.575] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ALV los aldeanos JAJAJAJAJA
+[19Dec2024 22:40:24.554] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> quien se los follo?DXDXDXDXD
+[19Dec2024 22:40:29.454] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta
+[19Dec2024 22:40:33.199] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> mentira
+[19Dec2024 22:40:37.387] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> andas a tope galleta
+[19Dec2024 22:40:37.969] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:40:40.518] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> solo mate 1 sin querer
+[19Dec2024 22:40:44.412] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> vos le pegaste 7 blasos a uno
+[19Dec2024 22:40:46.510] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> avia como 4 xd
+[19Dec2024 22:40:46.750] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/shelter
+[19Dec2024 22:40:52.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[19Dec2024 22:40:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:41:05.403] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> eso fue la otra vez
+[19Dec2024 22:41:17.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken
+[19Dec2024 22:41:17.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_basement
+[19Dec2024 22:41:17.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_gate
+[19Dec2024 22:41:30.920] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:42:07.809] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/pond
+[19Dec2024 22:42:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:42:11.619] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:42:42.422] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:43:12.627] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/jungle_shelter
+[19Dec2024 22:43:30.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[19Dec2024 22:43:49.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/prison
+[19Dec2024 22:43:51.585] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[19Dec2024 22:43:51.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[19Dec2024 22:43:51.776] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[19Dec2024 22:43:51.776] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[19Dec2024 22:43:51.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[19Dec2024 22:43:51.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[19Dec2024 22:43:51.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[19Dec2024 22:43:51.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[19Dec2024 22:44:19.972] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:44:29.443] [Server thread/INFO] [hordes/]: Failed loading table minecraft:1, loading fallback table hordes:fallback
+[19Dec2024 22:44:29.444] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@50947c9c
+[19Dec2024 22:44:29.444] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[19Dec2024 22:44:29.445] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[19Dec2024 22:44:35.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 22:44:35.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 22:45:41.720] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:46:13.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.27168096974492073
+[19Dec2024 22:46:13.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.30569579473922204
+[19Dec2024 22:46:13.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.3363091364230968
+[19Dec2024 22:46:13.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.363861143208851
+[19Dec2024 22:46:13.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.38865794865910175
+[19Dec2024 22:46:13.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.41097507297308766
+[19Dec2024 22:46:13.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.4310604843235524
+[19Dec2024 22:46:13.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.4491373540602126
+[19Dec2024 22:46:13.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.46046791485241556
+[19Dec2024 22:46:13.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.46571682794751723
+[19Dec2024 22:46:13.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.46548398066511254
+[19Dec2024 22:46:14.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.46031079801650776
+[19Dec2024 22:46:14.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.45068566378745345
+[19Dec2024 22:46:14.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Bandager17) moved wrongly! 0.43704094939607785
+[19Dec2024 22:47:32.476] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/gathering_camps
+[19Dec2024 22:47:35.472] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:48:01.612] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1361, y=66, z=2603} but found not block entity block Block{minecraft:cracked_deepslate_tiles} at location
+[19Dec2024 22:48:01.613] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cracked_deepslate_tiles} but failed at location BlockPos{x=-1361, y=66, z=2603}
+[19Dec2024 22:49:34.069] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:49:35.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 22:49:35.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 22:49:40.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:50:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:51:31.220] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:52:55.271] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:53:25.087] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nmms y las manzanas? bandanger?
+[19Dec2024 22:53:53.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1659, y=89, z=2762} BlockPos{x=-1659, y=87, z=2762}
+[19Dec2024 22:53:54.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1658, y=89, z=2761} BlockPos{x=-1657, y=87, z=2758}
+[19Dec2024 22:54:02.315] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> bandanger?
+[19Dec2024 22:54:03.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1659.6916809678078, 89.61786389350891, 2752.1379311829805) too far away from hit block BlockPos{x=-1659, y=88, z=2752}.
+[19Dec2024 22:54:16.441] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> no
+[19Dec2024 22:54:25.651] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> humm
+[19Dec2024 22:54:35.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 22:54:35.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 22:54:36.320] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> nmms eran como 47 q pedo
+[19Dec2024 22:54:44.580] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> no soy tan gordo
+[19Dec2024 22:54:50.458] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> no puedo comer tanto
+[19Dec2024 22:54:57.162] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> eran doradas we nmms xd
+[19Dec2024 22:55:27.673] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 22:55:40.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1483.2400706857443, 100.875, 2544.97480148077) too far away from hit block BlockPos{x=-1483, y=99, z=2544}.
+[19Dec2024 22:55:42.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1482.8224303275347, 100.875, 2544.951950609684) too far away from hit block BlockPos{x=-1483, y=99, z=2544}.
+[19Dec2024 22:55:42.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1483.1087287440896, 100.875, 2545.0158108472824) too far away from hit block BlockPos{x=-1483, y=99, z=2544}.
+[19Dec2024 22:55:42.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1483.1105554178357, 100.875, 2545.0181500911713) too far away from hit block BlockPos{x=-1483, y=99, z=2544}.
+[19Dec2024 22:55:42.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Bandager17: Location (-1483.188292980194, 100.875, 2544.887771308422) too far away from hit block BlockPos{x=-1483, y=99, z=2544}.
+[19Dec2024 22:55:49.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1496, y=100, z=2554} BlockPos{x=-1496, y=99, z=2555}
+[19Dec2024 22:55:49.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1496, y=100, z=2554} BlockPos{x=-1496, y=99, z=2555}
+[19Dec2024 22:56:04.709] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no ya neta quien las agarro me costo un huevo y medio con sguirlas
+[19Dec2024 22:56:28.828] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> fue hd al parecer
+[19Dec2024 22:56:36.278] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> a
+[19Dec2024 22:56:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:57:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:57:24.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:57:25.164] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> como sabes
+[19Dec2024 22:57:33.877] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> estamos en llamada en general
