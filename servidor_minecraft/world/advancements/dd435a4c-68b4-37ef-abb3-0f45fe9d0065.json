@@ -4240,6 +4240,12 @@
     },
     "done": true
   },
+  "scguns:main/end/raygun": {
+    "criteria": {
+      "raygun": "2024-12-19 20:54:40 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_small_casing_mold": {
     "criteria": {
       "small_casing_mold": "2024-12-19 20:56:01 +0000"
@@ -4252,9 +4258,9 @@
     },
     "done": true
   },
-  "scguns:main/end/raygun": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "raygun": "2024-12-19 20:54:40 +0000"
+      "has_bowl": "2024-12-19 21:56:55 +0000"
     },
     "done": true
   },

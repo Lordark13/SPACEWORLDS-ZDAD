@@ -3353,12 +3353,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 21:05:41 +0000"
@@ -3368,12 +3362,6 @@
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 21:05:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
     },
     "done": true
   },
@@ -3509,12 +3497,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 21:05:41 +0000"
@@ -3524,6 +3506,24 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 21:05:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-19 21:07:07 +0000"
     },
     "done": true
   },

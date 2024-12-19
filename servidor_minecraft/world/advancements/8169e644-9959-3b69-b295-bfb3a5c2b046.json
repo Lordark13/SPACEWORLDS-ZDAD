@@ -135,10 +135,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-19 21:50:12 +0000",
       "cooked_cod": "2024-12-19 21:09:14 +0000",
       "golden_apple": "2024-12-19 20:49:46 +0000",
       "rotten_flesh": "2024-12-19 20:43:57 +0000",
       "salmon": "2024-12-19 20:40:04 +0000",
+      "mushroom_stew": "2024-12-19 21:53:32 +0000",
       "cod": "2024-12-19 20:51:16 +0000"
     },
     "done": false
@@ -887,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2024-12-19 21:21:02 +0000"
@@ -929,6 +937,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-19 21:12:22 +0000"
@@ -941,9 +967,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 21:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-19 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-19 21:46:50 +0000"
     },
     "done": true
   },
@@ -965,10 +1009,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 21:18:53 +0000",
-      "minecraft:zombie": "2024-12-19 21:34:17 +0000"
+      "minecraft:zombie": "2024-12-19 21:34:17 +0000",
+      "minecraft:drowned": "2024-12-19 21:48:00 +0000"
     },
     "done": false
   },
@@ -984,6 +1035,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-19 21:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
@@ -996,9 +1053,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-19 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 21:46:29 +0000"
     },
     "done": true
   },
@@ -1014,6 +1089,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
@@ -1023,6 +1122,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-19 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-19 21:55:10 +0000"
     },
     "done": true
   },
