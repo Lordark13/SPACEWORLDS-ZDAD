@@ -5945,3 +5945,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 19:22:20.366] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@18daa1fd into net.minecraft.network.Connection@2d437a78
 [19Dec2024 19:22:20.366] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 89 classes
 [19Dec2024 19:22:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 19:22:32.612] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ya agarre el drop
+[19Dec2024 19:22:36.074] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no vallas
+[19Dec2024 19:22:39.148] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nice salio prote 4
+[19Dec2024 19:23:41.738] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a la flash
+[19Dec2024 19:26:56.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 19:26:56.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 19:30:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has made the advancement [A Seedy Place]
+[19Dec2024 19:31:56.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 19:31:56.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
