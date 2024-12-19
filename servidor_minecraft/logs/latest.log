@@ -1367,3 +1367,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 18:41:22.099] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya tengo yo 1
 [19Dec2024 18:41:23.900] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ese pra ti
 [19Dec2024 18:41:27.991] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ok
+[19Dec2024 18:45:44.654] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -154], discarding
+[19Dec2024 18:45:44.657] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -154], discarding
+[19Dec2024 18:45:44.658] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -154], discarding
+[19Dec2024 18:45:46.727] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -155], discarding
+[19Dec2024 18:45:46.728] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -155], discarding
+[19Dec2024 18:45:46.729] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -155], discarding
+[19Dec2024 18:45:48.757] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [50, -156], discarding
+[19Dec2024 18:45:48.758] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [51, -156], discarding
+[19Dec2024 18:45:48.759] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[19Dec2024 18:45:48.759] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [52, -156], discarding
+[19Dec2024 18:45:48.783] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya encontre el objeto se llama rocket booster
+[19Dec2024 18:46:05.366] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> no estoy seguro pero creo que eso deberia hacerte ir mas rapido
+[19Dec2024 18:46:06.113] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> como se craftea?
+[19Dec2024 18:46:07.970] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -156], discarding
+[19Dec2024 18:46:07.971] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -155], discarding
+[19Dec2024 18:46:07.972] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [49, -154], discarding
+[19Dec2024 18:46:12.770] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 2 mecheros y 4 de hierro
+[19Dec2024 18:46:22.417] [ForkJoinPool.commonPool-worker-29/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> es como hacer escaleras pero sin el palo del medio
+[19Dec2024 18:55:12.681] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que mira me recomiendas para el franco?
+[19Dec2024 18:55:40.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[19Dec2024 18:55:40.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[19Dec2024 18:55:48.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:57071] logged in with entity id 66816 at (2515.4931657450784, 102.0, -4355.481594786959)
+[19Dec2024 18:55:48.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[19Dec2024 18:56:34.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[19Dec2024 18:56:35.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[19Dec2024 18:59:17.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:50859] logged in with entity id 67163 at (2515.1872006987332, 102.0, -4354.967554745682)
+[19Dec2024 18:59:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[19Dec2024 18:59:54.668] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> la mira por 10
+[19Dec2024 19:00:14.125] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> La legendaria?
+[19Dec2024 19:00:17.447] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> usando v vas rotando entre las 2 tipos de mira que tiene
+[19Dec2024 19:00:22.597] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tiene x5 y 10
+[19Dec2024 19:00:38.037] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no se puede craftear xd
+[19Dec2024 19:00:47.718] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si se puede tenemos todo xdx
