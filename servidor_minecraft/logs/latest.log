@@ -1669,3 +1669,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 22:06:31.375] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
 [19Dec2024 22:06:31.375] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
 [19Dec2024 22:06:31.375] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[19Dec2024 22:06:57.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:07:21.376] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:07:21.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:07:21.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[19Dec2024 22:07:21.377] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[19Dec2024 22:07:46.853] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ...
+[19Dec2024 22:07:54.451] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> saben lo q me costo tarerla
+[19Dec2024 22:08:11.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:08:11.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:08:11.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[19Dec2024 22:08:11.373] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[19Dec2024 22:08:20.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ was slain by RIOTNyx
+[19Dec2024 22:08:20.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 22:08:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 22:09:01.374] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:09:01.374] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[19Dec2024 22:09:01.374] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[19Dec2024 22:09:01.375] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[19Dec2024 22:09:41.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:50975] logged in with entity id 104717 at (-1572.390735230552, 59.0, 769.6830967903694)
+[19Dec2024 22:09:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 22:09:54.747] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> bien
+[19Dec2024 22:10:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[19Dec2024 22:10:06.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 22:10:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 22:10:06.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Player ArazibeMoney50_ tried to attack an invalid entity
+[19Dec2024 22:10:06.176] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 22:10:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:10:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[19Dec2024 22:10:12.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:42889] logged in with entity id 104944 at (-1571.254004905518, 59.0, 771.7090636805553)
+[19Dec2024 22:10:12.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 22:10:12.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:10:13.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Adventure Mode]
+[19Dec2024 22:10:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:10:25.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60735, l='ServerLevel[World]', x=-1573.70, y=58.50, z=780.50] died, message: 'Villager was eliminated by Rebondrake5556'
+[19Dec2024 22:10:55.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1569.995212081354, 60.0, 763.7201468348503) too far away from hit block BlockPos{x=-1570, y=58, z=763}.
+[19Dec2024 22:10:55.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1569.995212081354, 60.0, 763.7201468348503) too far away from hit block BlockPos{x=-1570, y=58, z=763}.
+[19Dec2024 22:10:56.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1569.995212081354, 60.0, 763.7201468348503) too far away from hit block BlockPos{x=-1570, y=58, z=763}.
+[19Dec2024 22:10:58.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.625336050987244, 763.7617679834366) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:10:58.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.625336050987244, 763.7617679834366) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:10:58.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.52457273006439, 763.7354907393456) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:10:58.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.52457273006439, 763.7354907393456) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:10:59.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.52457273006439, 763.7354907393456) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:10:59.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (-1572.125, 59.52457273006439, 763.7354907393456) too far away from hit block BlockPos{x=-1573, y=58, z=763}.
+[19Dec2024 22:11:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Creative Mode]
+[19Dec2024 22:11:23.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 22:11:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 22:12:22.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1647, y=78, z=1031} BlockPos{x=-1649, y=78, z=1031}
+[19Dec2024 22:18:09.568] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [173, -206], discarding
+[19Dec2024 22:18:09.570] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [174, -206], discarding
+[19Dec2024 22:18:09.581] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [175, -206], discarding
+[19Dec2024 22:18:09.583] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [176, -206], discarding
+[19Dec2024 22:18:10.047] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [173, -207], discarding
+[19Dec2024 22:18:10.048] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [174, -207], discarding
+[19Dec2024 22:18:10.049] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [175, -207], discarding
+[19Dec2024 22:18:10.050] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [176, -207], discarding
+[19Dec2024 22:18:11.114] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [173, -208], discarding
+[19Dec2024 22:18:11.116] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [174, -208], discarding
+[19Dec2024 22:18:11.118] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [175, -208], discarding
+[19Dec2024 22:18:11.119] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:factory
+[19Dec2024 22:18:11.119] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [176, -208], discarding
+[19Dec2024 22:18:11.982] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [174, -209], discarding
+[19Dec2024 22:18:11.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [173, -209], discarding
+[19Dec2024 22:18:11.987] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [175, -209], discarding
+[19Dec2024 22:18:11.988] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [176, -209], discarding
+[19Dec2024 22:19:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Adventure Mode]
+[19Dec2024 22:19:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:22:28.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx moved wrongly!
+[19Dec2024 22:22:51.927] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> Galleta tirame tp
+[19Dec2024 22:22:52.643] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> puta
+[19Dec2024 22:23:12.223] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> GALLETA MANDA DROP PARA CRAFTEAR LA ASTELLA
+[19Dec2024 22:23:51.848] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <Bandager17> SIIIIIIIIIIIIIIIIIIIIIII
+[19Dec2024 22:24:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:24:49.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:25:17.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:25:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:25:51.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[19Dec2024 22:25:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 22:25:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[19Dec2024 22:25:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 22:26:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported RIOTNyx to ClinicaSanPablo]
+[19Dec2024 22:26:18.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[19Dec2024 22:26:20.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]

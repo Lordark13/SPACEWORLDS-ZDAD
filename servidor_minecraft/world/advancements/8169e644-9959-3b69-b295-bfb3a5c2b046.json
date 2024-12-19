@@ -19,9 +19,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-19 22:15:49 +0000",
       "minecraft:deep_ocean": "2024-12-19 20:36:51 +0000",
       "minecraft:frozen_river": "2024-12-19 20:51:36 +0000",
       "minecraft:snowy_plains": "2024-12-19 20:51:42 +0000",
+      "minecraft:snowy_taiga": "2024-12-19 22:15:23 +0000",
       "minecraft:cold_ocean": "2024-12-19 20:50:45 +0000",
       "minecraft:deep_cold_ocean": "2024-12-19 20:39:02 +0000",
       "minecraft:ice_spikes": "2024-12-19 20:58:50 +0000",
@@ -140,6 +142,7 @@
       "golden_apple": "2024-12-19 20:49:46 +0000",
       "rotten_flesh": "2024-12-19 20:43:57 +0000",
       "salmon": "2024-12-19 20:40:04 +0000",
+      "cooked_rabbit": "2024-12-19 22:10:04 +0000",
       "mushroom_stew": "2024-12-19 21:53:32 +0000",
       "cod": "2024-12-19 20:51:16 +0000"
     },
@@ -889,15 +892,45 @@
     },
     "done": true
   },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2024-12-19 22:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-19 21:55:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-19 22:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2024-12-19 21:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-19 22:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
     },
     "done": true
   },
@@ -937,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 22:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-19 21:55:10 +0000"
@@ -973,6 +1012,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-19 22:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-19 22:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-19 21:12:44 +0000"
@@ -985,15 +1036,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-19 21:46:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-19 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-19 22:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
     },
     "done": true
   },
@@ -1026,6 +1107,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-19 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
     },
     "done": true
   },
@@ -1065,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 22:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-19 21:53:21 +0000"
@@ -1080,6 +1173,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
     },
     "done": true
   },
@@ -1101,6 +1200,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 22:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-19 21:55:10 +0000"
@@ -1113,6 +1224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-19 22:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-19 21:12:22 +0000"
@@ -1122,6 +1239,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-19 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_gun_bench": {
+    "criteria": {
+      "gun_bench": "2024-12-19 22:18:38 +0000"
     },
     "done": true
   },
