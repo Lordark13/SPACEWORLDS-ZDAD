@@ -154,6 +154,7 @@
       "apple": "2024-12-19 22:40:50 +0000",
       "cooked_cod": "2024-12-19 21:09:14 +0000",
       "golden_apple": "2024-12-19 20:49:46 +0000",
+      "bread": "2024-12-19 23:42:26 +0000",
       "rotten_flesh": "2024-12-19 20:43:57 +0000",
       "salmon": "2024-12-19 20:40:04 +0000",
       "cooked_rabbit": "2024-12-19 22:10:04 +0000",
@@ -1532,15 +1533,75 @@
     },
     "done": true
   },
+  "knize1007:day90": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day80": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day70": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day60": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day50": {
+    "criteria": {
+      "play50days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day40": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
   "knize1007:hostilemobs": {
     "criteria": {
       "tick": "2024-12-19 23:39:19 +0000"
     },
     "done": true
   },
+  "knize1007:day30": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day20": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
   "knize1007:root": {
     "criteria": {
       "tick": "2024-12-19 23:39:19 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day100": {
+    "criteria": {
+      "play100days": "2024-12-19 23:44:57 +0000"
     },
     "done": true
   },

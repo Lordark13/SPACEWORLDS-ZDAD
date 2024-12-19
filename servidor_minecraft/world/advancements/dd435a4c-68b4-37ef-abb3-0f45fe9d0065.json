@@ -4265,15 +4265,75 @@
     },
     "done": true
   },
+  "knize1007:day90": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day80": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day70": {
+    "criteria": {
+      "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day60": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day50": {
+    "criteria": {
+      "play50days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day40": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
   "knize1007:hostilemobs": {
     "criteria": {
       "tick": "2024-12-19 23:39:19 +0000"
     },
     "done": true
   },
+  "knize1007:day30": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day20": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
   "knize1007:root": {
     "criteria": {
       "tick": "2024-12-19 23:39:19 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day100": {
+    "criteria": {
+      "play100days": "2024-12-19 23:44:57 +0000"
     },
     "done": true
   },
