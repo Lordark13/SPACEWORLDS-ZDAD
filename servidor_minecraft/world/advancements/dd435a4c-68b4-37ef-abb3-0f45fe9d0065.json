@@ -4186,7 +4186,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-19 20:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-19 20:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-19 20:13:30 +0000"
     },
@@ -4198,21 +4210,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2024-12-19 20:13:19 +0000"
-    },
-    "done": true
-  },
   "scguns:main/cryoniter": {
     "criteria": {
       "cryoniter": "2024-12-19 20:18:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "scguns:main/ocean/marlin": {
     "criteria": {
-      "has_paper": "2024-12-19 20:13:30 +0000"
+      "marlin": "2024-12-19 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/geothermal_vent": {
+    "criteria": {
+      "geothermal_vent": "2024-12-19 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_vent_collector": {
+    "criteria": {
+      "vent_collector": "2024-12-19 20:27:13 +0000"
     },
     "done": true
   },
