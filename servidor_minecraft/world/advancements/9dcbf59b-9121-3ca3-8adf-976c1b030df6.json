@@ -4048,21 +4048,15 @@
     },
     "done": true
   },
-  "scguns:main/geothermal_vent": {
+  "scguns:main/niter_dust": {
     "criteria": {
-      "geothermal_vent": "2024-12-19 21:00:41 +0000"
+      "niter_dust": "2024-12-19 20:45:15 +0000"
     },
     "done": true
   },
   "scguns:main/craft_polar_generator": {
     "criteria": {
       "polar_generator": "2024-12-19 20:47:50 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/niter_dust": {
-    "criteria": {
-      "niter_dust": "2024-12-19 20:45:15 +0000"
     },
     "done": true
   },
@@ -4075,6 +4069,12 @@
   "scguns:main/end/raygun": {
     "criteria": {
       "raygun": "2024-12-19 20:59:34 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/geothermal_vent": {
+    "criteria": {
+      "geothermal_vent": "2024-12-19 21:00:41 +0000"
     },
     "done": true
   },
