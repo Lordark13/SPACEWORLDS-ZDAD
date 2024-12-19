@@ -2189,5 +2189,23 @@
     },
     "done": true
   },
+  "scguns:main/cowboy/pax": {
+    "criteria": {
+      "pax": "2024-12-19 18:24:15 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched_blueprint": {
+    "criteria": {
+      "scorched_blueprint": "2024-12-19 18:22:03 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/deep_dark_blueprint": {
+    "criteria": {
+      "deep_dark_blueprint": "2024-12-19 18:21:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
