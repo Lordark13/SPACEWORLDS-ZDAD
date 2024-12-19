@@ -1109,3 +1109,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 17:19:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: que hace riot en mc
 [19Dec2024 17:19:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: ahora mismo cierro el sv
 [19Dec2024 17:19:44.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: ahora mismo cierro el sv
+[19Dec2024 17:19:50.621] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> te doxeo
+[19Dec2024 17:19:54.705] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 176.462.127
+[19Dec2024 17:27:25.595] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[19Dec2024 17:28:02.089] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[19Dec2024 17:28:46.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[19Dec2024 17:28:46.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[19Dec2024 17:28:57.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 17:29:48.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[19Dec2024 17:36:30.348] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ya se como hacer que spawneen los pillagers
