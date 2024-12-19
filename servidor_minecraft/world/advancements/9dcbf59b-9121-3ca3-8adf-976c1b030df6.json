@@ -3777,15 +3777,15 @@
     },
     "done": true
   },
-  "zombiekit:whos_your_daddy": {
-    "criteria": {
-      "whos_your_daddy": "2024-12-18 22:44:41 +0000"
-    },
-    "done": true
-  },
   "scguns:main/diamond_steel": {
     "criteria": {
       "diamond_steel_ingot": "2024-12-18 21:15:43 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:whos_your_daddy": {
+    "criteria": {
+      "whos_your_daddy": "2024-12-18 22:44:41 +0000"
     },
     "done": true
   },

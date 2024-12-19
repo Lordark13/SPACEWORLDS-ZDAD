@@ -4068,3 +4068,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 17:05:23.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/223, l='ServerLevel[World]', x=2511.57, y=79.94, z=-4360.70] died, message: 'Villager was slain by RIOTNyx'
 [19Dec2024 17:05:24.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/222, l='ServerLevel[World]', x=2511.56, y=79.94, z=-4360.70] died, message: 'Villager was slain by RIOTNyx'
 [19Dec2024 17:05:49.749] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no las necesitas verdad?
+[19Dec2024 17:06:46.758] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Dec2024 17:06:56.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 17:06:56.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 17:10:05.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[19Dec2024 17:10:38.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Dec2024 17:11:56.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 17:11:56.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 17:16:56.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 17:16:56.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 17:18:57.000] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no tenias las botas?
+[19Dec2024 17:18:59.921] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> si tnenia xd
+[19Dec2024 17:19:04.488] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> namas q eswtan en la mrd
+[19Dec2024 17:19:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: que hace riot en mc
+[19Dec2024 17:19:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: que hace riot en mc
+[19Dec2024 17:19:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: ahora mismo cierro el sv
+[19Dec2024 17:19:44.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: ahora mismo cierro el sv
