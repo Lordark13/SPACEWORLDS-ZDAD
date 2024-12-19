@@ -4048,6 +4048,12 @@
     },
     "done": true
   },
+  "scguns:main/geothermal_vent": {
+    "criteria": {
+      "geothermal_vent": "2024-12-19 21:00:41 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_polar_generator": {
     "criteria": {
       "polar_generator": "2024-12-19 20:47:50 +0000"
@@ -4063,6 +4069,18 @@
   "scguns:main/deep_dark/sculk_resonator": {
     "criteria": {
       "sculk_resonator": "2024-12-19 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/end/raygun": {
+    "criteria": {
+      "raygun": "2024-12-19 20:59:34 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_vent_collector": {
+    "criteria": {
+      "vent_collector": "2024-12-19 21:00:41 +0000"
     },
     "done": true
   },
