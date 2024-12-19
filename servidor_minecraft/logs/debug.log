@@ -5305,3 +5305,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 18:30:26.741] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
 [19Dec2024 18:30:42.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-14, y=12, z=-2480} but found not block entity block Block{minecraft:stone} at location
 [19Dec2024 18:30:42.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-14, y=12, z=-2480}
+[19Dec2024 18:31:16.716] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[19Dec2024 18:31:16.718] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[19Dec2024 18:31:16.718] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[19Dec2024 18:31:16.719] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[19Dec2024 18:31:16.722] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1e6e7129]Can't spawn wave because max cap has been reached
+[19Dec2024 18:31:56.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 18:31:56.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 18:32:06.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[19Dec2024 18:32:06.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[19Dec2024 18:32:06.701] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[19Dec2024 18:32:06.701] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[19Dec2024 18:32:06.701] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1e6e7129]Can't spawn wave because max cap has been reached
+[19Dec2024 18:33:22.215] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [-1, -129], discarding
+[19Dec2024 18:33:22.216] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -129], discarding
+[19Dec2024 18:33:24.303] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [-1, -128], discarding
+[19Dec2024 18:33:24.313] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -128], discarding
+[19Dec2024 18:33:25.916] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [-1, -127], discarding
+[19Dec2024 18:33:25.917] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -127], discarding
+[19Dec2024 18:33:27.277] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [-1, -126], discarding
+[19Dec2024 18:33:27.278] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[19Dec2024 18:33:27.278] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [0, -126], discarding
+[19Dec2024 18:33:28.518] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [-1, -125], discarding
+[19Dec2024 18:33:28.519] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [0, -125], discarding
+[19Dec2024 18:33:28.520] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:oildrill' in chunk [1, -125], discarding
+[19Dec2024 18:35:57.213] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/51033, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[19Dec2024 18:35:57.214] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/51033, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[19Dec2024 18:35:57.214] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/51033, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[19Dec2024 18:35:57.215] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@58a122d6, net.minecraft.world.item.trading.MerchantOffer@1b0ffee8, net.minecraft.world.item.trading.MerchantOffer@772eea22, net.minecraft.world.item.trading.MerchantOffer@37c386af] for Humanoid['Kisu'/51033, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[19Dec2024 18:35:58.467] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/51136, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[19Dec2024 18:35:58.468] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/51136, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[19Dec2024 18:35:58.468] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/51136, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[19Dec2024 18:35:58.469] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@6af7e54d] for Humanoid['Endermandrow TSI'/51136, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[19Dec2024 18:36:26.684] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a vine
+[19Dec2024 18:36:28.333] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> taba comiendo
+[19Dec2024 18:36:28.833] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xd
+[19Dec2024 18:36:46.648] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> acabo de llegar al drop
+[19Dec2024 18:36:56.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 18:36:56.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 18:37:02.639] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ...
+[19Dec2024 18:37:09.983] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tenias para abrirlo?
+[19Dec2024 18:37:17.886] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si
+[19Dec2024 18:37:22.466] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a todo esto creo que existe algo llamado como boost o propeler nose algo asi
+[19Dec2024 18:37:29.717] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a lo mejor sirve para ir mas rapido
+[19Dec2024 18:38:23.250] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y q habia
+[19Dec2024 18:38:40.203] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tenemos blueprints para hacer rayguns y astella
+[19Dec2024 18:38:59.949] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> pero no habia cuarzo ni lagriams de ghast
+[19Dec2024 18:39:04.001] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> chale
+[19Dec2024 18:39:15.817] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cuarzo me vendria de 10
+[19Dec2024 18:39:44.146] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cual era la mejora del franco?
+[19Dec2024 18:39:56.402] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> high explosive ammo
+[19Dec2024 18:40:13.899] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> eso estaba en el drop
+[19Dec2024 18:40:19.115] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a toncs facil xd
+[19Dec2024 18:40:23.536] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> pero solo uno
+[19Dec2024 18:41:22.099] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya tengo yo 1
+[19Dec2024 18:41:23.900] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ese pra ti
+[19Dec2024 18:41:27.991] [ForkJoinPool.commonPool-worker-28/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ok
