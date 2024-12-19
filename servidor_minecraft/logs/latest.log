@@ -2447,3 +2447,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 22:57:24.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
 [19Dec2024 22:57:25.164] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> como sabes
 [19Dec2024 22:57:33.877] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> estamos en llamada en general
+[19Dec2024 22:59:34.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 23:00:07.532] [ForkJoinPool.commonPool-worker-31/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> te dijo?
+[19Dec2024 23:00:10.419] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:01:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 23:01:47.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 23:02:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 23:02:34.919] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:03:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 23:04:30.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[19Dec2024 23:04:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[19Dec2024 23:05:06.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 23:05:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 23:05:52.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bandager17 lost connection: Disconnected
+[19Dec2024 23:05:52.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 left the game
+[19Dec2024 23:08:55.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:42095] logged in with entity id 149180 at (-1572.9872403864954, 59.0, 769.5870912986599)
+[19Dec2024 23:08:55.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 23:09:17.377] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y si nos convertimos en un solo team?
+[19Dec2024 23:09:26.284] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> se puede?
+[19Dec2024 23:09:28.009] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me dice galleta que son 10 de reusheadores
+[19Dec2024 23:09:30.785] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> supongo
+[19Dec2024 23:09:42.079] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pues si quieres bbro
+[19Dec2024 23:09:48.857] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tendria que hablarlo con mi compañero tambien

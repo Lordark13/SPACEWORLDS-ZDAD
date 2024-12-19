@@ -22,6 +22,7 @@
       "minecraft:taiga": "2024-12-19 22:15:49 +0000",
       "minecraft:deep_ocean": "2024-12-19 20:36:51 +0000",
       "minecraft:frozen_river": "2024-12-19 20:51:36 +0000",
+      "minecraft:cherry_grove": "2024-12-19 22:56:44 +0000",
       "minecraft:sunflower_plains": "2024-12-19 22:49:01 +0000",
       "minecraft:savanna_plateau": "2024-12-19 22:51:27 +0000",
       "minecraft:stony_peaks": "2024-12-19 22:52:50 +0000",
@@ -149,6 +150,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-19 22:41:45 +0000",
       "sweet_berries": "2024-12-19 21:50:12 +0000",
+      "cooked_beef": "2024-12-19 23:01:14 +0000",
       "apple": "2024-12-19 22:40:50 +0000",
       "cooked_cod": "2024-12-19 21:09:14 +0000",
       "golden_apple": "2024-12-19 20:49:46 +0000",
@@ -1272,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-19 22:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-19 22:49:35 +0000"
@@ -1284,9 +1292,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-19 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
     },
     "done": true
   },
@@ -1296,9 +1322,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-19 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
     },
     "done": true
   },
@@ -1308,9 +1346,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-19 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-19 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-19 22:56:44 +0000"
     },
     "done": true
   },
@@ -1329,6 +1397,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-19 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 22:56:44 +0000"
     },
     "done": true
   },
