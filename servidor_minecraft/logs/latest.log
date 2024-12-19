@@ -1146,3 +1146,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 17:49:36.698] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
 [19Dec2024 17:49:36.698] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
 [19Dec2024 17:49:36.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[19Dec2024 17:50:26.698] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:50:26.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:50:26.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[19Dec2024 17:50:26.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[19Dec2024 17:50:31.900] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> por que cada vez hay menos pinchos?
+[19Dec2024 17:50:37.876] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ni idea
+[19Dec2024 17:50:42.410] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a lo mejor se rompen con el tiempo
+[19Dec2024 17:50:50.477] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> quien decir
+[19Dec2024 17:50:54.101] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> mientras mas zombies se mueren ahi
+[19Dec2024 17:51:16.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:51:16.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:51:16.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[19Dec2024 17:51:16.700] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[19Dec2024 17:52:06.698] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:52:06.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 130
+[19Dec2024 17:52:06.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 130
+[19Dec2024 17:52:06.699] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 130
+[19Dec2024 17:52:51.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:42763] logged in with entity id 19016 at (-1574.3708376260172, 59.5625, 776.5864005850501)
+[19Dec2024 17:52:51.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 17:58:04.027] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> Arazibe
+[19Dec2024 17:58:08.177] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya te e visto revivir 5 veces
+[19Dec2024 17:58:12.774] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> si
+[19Dec2024 17:58:29.149] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> grande
+[19Dec2024 18:00:14.324] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xd
+[19Dec2024 18:00:15.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 18:00:15.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
