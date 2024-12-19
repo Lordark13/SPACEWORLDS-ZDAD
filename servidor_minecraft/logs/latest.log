@@ -1449,3 +1449,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 19:22:39.148] [ForkJoinPool.commonPool-worker-40/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nice salio prote 4
 [19Dec2024 19:23:41.738] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a la flash
 [19Dec2024 19:30:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ has made the advancement [A Seedy Place]
+[19Dec2024 19:33:08.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Dec2024 19:39:43.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[19Dec2024 19:41:07.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 3.502184550661241,1.022162766580692,-9.883728102104214
