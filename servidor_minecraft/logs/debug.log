@@ -4330,3 +4330,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 18:00:14.324] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xd
 [19Dec2024 18:00:15.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
 [19Dec2024 18:00:15.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 18:01:56.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 18:01:56.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 18:05:15.347] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> otra notch xd
+[19Dec2024 18:05:35.304] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuantas has conseguido?d
+[19Dec2024 18:05:39.297] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 3
+[19Dec2024 18:05:55.097] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> haciendo tantito calculo obtenemos manzanas cada 30 minutozs
+[19Dec2024 18:06:05.799] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pero eso es calculo con poca info xd
+[19Dec2024 18:06:12.198] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> asi q ni en pedo es exacto
+[19Dec2024 18:06:56.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Dec2024 18:06:56.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Dec2024 18:08:18.803] [Worker-Main-70/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[19Dec2024 18:08:19.741] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Orientation
+[19Dec2024 18:08:19.743] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/api/RailChunkType
+[19Dec2024 18:08:19.744] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Railway$RailDirection
+[19Dec2024 18:08:19.991] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/BuildingInfo$StreetType
+[19Dec2024 18:08:20.023] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$AvoidChunk
+[19Dec2024 18:08:20.133] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$HardAirSetting
+[19Dec2024 18:08:20.134] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
+[19Dec2024 18:08:20.135] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
+[19Dec2024 18:08:20.171] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
+[19Dec2024 18:08:20.479] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
