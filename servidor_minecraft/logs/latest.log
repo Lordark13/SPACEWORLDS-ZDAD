@@ -2469,3 +2469,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 23:09:30.785] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> supongo
 [19Dec2024 23:09:42.079] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pues si quieres bbro
 [19Dec2024 23:09:48.857] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tendria que hablarlo con mi compañero tambien
+[19Dec2024 23:10:11.646] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> eso si te digo alianza para ir a matar al team de rusheadores
+[19Dec2024 23:10:23.835] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> porque son 10
+[19Dec2024 23:10:27.428] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> va
+[19Dec2024 23:10:39.133] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> como se consige las varas de blase?
+[19Dec2024 23:10:42.424] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y nosotros 5 pero solo yo y clinica nos metemos
+[19Dec2024 23:10:49.428] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> va
+[19Dec2024 23:10:50.450] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> en edificios
+[19Dec2024 23:10:57.494] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te confirmo despues
+[19Dec2024 23:10:58.624] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok
+[19Dec2024 23:11:04.464] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tengo que hablarlo que clinica
+[19Dec2024 23:11:19.323] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok
+[19Dec2024 23:11:26.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bandager17[/127.101.114.154:57277] logged in with entity id 150001 at (-1470.5446762904194, 105.0, 2615.9245551453623)
+[19Dec2024 23:11:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 joined the game
+[19Dec2024 23:11:33.721] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:11:33.876] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> igual le tengo q decir a dreoufther
+[19Dec2024 23:13:35.571] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:14:40.871] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:15:07.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2435, y=80, z=-4182} BlockPos{x=2435, y=78, z=-4182}
+[19Dec2024 23:15:07.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2435, y=80, z=-4182} BlockPos{x=2435, y=78, z=-4182}
+[19Dec2024 23:15:07.822] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[19Dec2024 23:17:50.724] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
