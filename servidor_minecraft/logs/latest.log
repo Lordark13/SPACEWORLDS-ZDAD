@@ -1189,3 +1189,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 18:08:20.135] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
 [19Dec2024 18:08:20.171] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
 [19Dec2024 18:08:20.479] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[19Dec2024 18:12:34.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:55943] logged in with entity id 25689 at (-1541.3658575601642, 69.43881158091585, 763.9580627009346)
+[19Dec2024 18:12:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[19Dec2024 18:13:07.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[19Dec2024 18:13:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[19Dec2024 18:15:01.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:35141] logged in with entity id 26064 at (-1541.3658575601642, 69.43881158091585, 763.9580627009346)
+[19Dec2024 18:15:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[19Dec2024 18:15:09.897] [ForkJoinPool.commonPool-worker-20/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ya y el airdrop galleta
+[19Dec2024 18:15:22.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[19Dec2024 18:15:22.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[19Dec2024 18:16:39.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:44959] logged in with entity id 26611 at (-1541.3658575601642, 69.43881158091585, 763.9580627009346)
+[19Dec2024 18:16:39.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[19Dec2024 18:16:51.648] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> dale galleta la conchadtmadre airdrop
+[19Dec2024 18:16:52.512] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> dale galleta la conchadtmadre airdrop
+[19Dec2024 18:16:52.800] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> dale galleta la conchadtmadre airdrop
+[19Dec2024 18:16:54.799] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> dale galleta la conchadtmadre airdropwejkp2j1oijnhoibhfgqwqiwbopiqbgoqbolik
+[19Dec2024 18:17:00.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[19Dec2024 18:17:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[19Dec2024 18:17:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: el minecraft crasheando
+[19Dec2024 18:17:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: el minecraft crasheando
+[19Dec2024 18:17:14.514] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> rxD
+[19Dec2024 18:20:15.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:51709] logged in with entity id 28479 at (-1541.3658575601642, 69.43881158091585, 763.9580627009346)
+[19Dec2024 18:20:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[19Dec2024 18:20:45.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[19Dec2024 18:20:49.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type

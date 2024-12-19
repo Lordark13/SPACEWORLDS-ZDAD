@@ -2147,9 +2147,9 @@
     },
     "done": true
   },
-  "scguns:main/end/dark_matter": {
+  "scguns:main/iron/defender_pistol": {
     "criteria": {
-      "dark_matter": "2024-12-18 21:35:41 +0000"
+      "defender_pistol": "2024-12-18 21:34:30 +0000"
     },
     "done": true
   },
@@ -2159,21 +2159,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-18 21:46:23 +0000"
-    },
-    "done": true
-  },
   "scguns:main/copper/makeshift_rifle": {
     "criteria": {
       "makeshift_rifle": "2024-12-18 21:35:29 +0000"
     },
     "done": true
   },
-  "scguns:main/iron/defender_pistol": {
+  "scguns:main/end/dark_matter": {
     "criteria": {
-      "defender_pistol": "2024-12-18 21:34:30 +0000"
+      "dark_matter": "2024-12-18 21:35:41 +0000"
     },
     "done": true
   },
@@ -2186,6 +2180,12 @@
   "scguns:main/deep_dark/echoes_2": {
     "criteria": {
       "echoes_2": "2024-12-18 21:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 21:46:23 +0000"
     },
     "done": true
   },
