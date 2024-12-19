@@ -4180,5 +4180,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-19 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-19 20:13:30 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel": {
+    "criteria": {
+      "diamond_steel_ingot": "2024-12-19 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-19 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/cryoniter": {
+    "criteria": {
+      "cryoniter": "2024-12-19 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-19 20:13:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

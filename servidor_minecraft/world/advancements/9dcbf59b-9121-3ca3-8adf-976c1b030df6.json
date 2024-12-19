@@ -42,6 +42,7 @@
       "minecraft:grove": "2024-12-16 21:09:33 +0000",
       "minecraft:cold_ocean": "2024-12-08 20:06:41 +0000",
       "minecraft:forest": "2024-12-08 18:57:25 +0000",
+      "minecraft:lush_caves": "2024-12-19 20:13:08 +0000",
       "minecraft:deep_cold_ocean": "2024-12-08 20:06:33 +0000",
       "minecraft:frozen_ocean": "2024-12-08 20:14:02 +0000",
       "minecraft:desert": "2024-12-08 21:15:54 +0000",
@@ -3921,9 +3922,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
+    },
+    "done": true
+  },
   "scguns:main/ocean/marlin": {
     "criteria": {
       "marlin": "2024-12-19 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-19 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 20:17:27 +0000"
     },
     "done": true
   },
