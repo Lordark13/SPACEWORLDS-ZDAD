@@ -1140,3 +1140,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 20:43:31.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
 [19Dec2024 20:43:36.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [19Dec2024 20:44:02.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 was eliminated by Rebondrake5556
+[19Dec2024 20:44:20.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:35789] logged in with entity id 24490 at (-1590.300000011921, 58.0, 764.3410840659938)
+[19Dec2024 20:44:20.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[19Dec2024 20:44:21.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[19Dec2024 20:44:21.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[19Dec2024 20:44:21.189] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 20:44:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Bandager17 to Rebondrake5556]
+[19Dec2024 20:44:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 was decimated by Rebondrake5556
+[19Dec2024 20:44:33.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Bandager17 to Rebondrake5556]
+[19Dec2024 20:44:54.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 was executed by Rebondrake5556
+[19Dec2024 20:45:09.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bandager17 moved too quickly! 2.8284479930363773,0.0,-9.807027092183034
+[19Dec2024 20:45:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set Bandager17's game mode to Survival Mode]
+[19Dec2024 20:45:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Bandager17 to Rebondrake5556]
+[19Dec2024 20:45:45.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[19Dec2024 20:45:45.328] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xaero-waypoint:Nose:N:465:63:382:1:false:0:Internal-overworld-waypoints
+[19Dec2024 20:46:07.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[19Dec2024 20:46:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 was slain by Runner
+[19Dec2024 20:46:54.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Bandager17'/25857, l='ServerLevel[World]', x=-917.24, y=66.00, z=-140.99] died: Zombie Player was shot by Rebondrake5556
+[19Dec2024 20:47:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Bandager17 to Rebondrake5556]
+[19Dec2024 20:47:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bandager17 has made the advancement [Into Fire]
+[19Dec2024 20:48:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Bandager17 to Rebondrake5556]
+[19Dec2024 20:49:35.590] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 167
+[19Dec2024 20:49:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[19Dec2024 20:49:52.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[19Dec2024 20:49:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[19Dec2024 20:53:07.377] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU

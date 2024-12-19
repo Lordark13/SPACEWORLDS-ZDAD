@@ -4048,5 +4048,23 @@
     },
     "done": true
   },
+  "scguns:main/craft_polar_generator": {
+    "criteria": {
+      "polar_generator": "2024-12-19 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/niter_dust": {
+    "criteria": {
+      "niter_dust": "2024-12-19 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/deep_dark/sculk_resonator": {
+    "criteria": {
+      "sculk_resonator": "2024-12-19 20:52:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
