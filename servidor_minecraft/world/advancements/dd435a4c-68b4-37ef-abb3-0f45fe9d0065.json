@@ -4072,33 +4072,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-19 19:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-12-19 19:51:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-19 17:44:58 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_polar_generator": {
-    "criteria": {
-      "polar_generator": "2024-12-19 19:48:39 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/niter_dust": {
-    "criteria": {
-      "niter_dust": "2024-12-19 19:48:44 +0000"
     },
     "done": true
   },
@@ -4108,27 +4084,33 @@
     },
     "done": true
   },
-  "scguns:main/craft_lightning_battery": {
-    "criteria": {
-      "lightning_battery": "2024-12-19 19:48:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-19 17:44:58 +0000"
     },
     "done": true
   },
-  "scguns:main/craft_gun_parts_mold": {
+  "scguns:main/end_blueprint": {
     "criteria": {
-      "gun_parts_mold": "2024-12-19 19:49:00 +0000"
+      "end_blueprint": "2024-12-19 19:48:28 +0000"
     },
     "done": true
   },
-  "scguns:main/craft_powered_stamping_press": {
+  "scguns:main/craft_polar_generator": {
     "criteria": {
-      "powered_stamping_press": "2024-12-19 19:48:53 +0000"
+      "polar_generator": "2024-12-19 19:48:39 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_lightning_battery": {
+    "criteria": {
+      "lightning_battery": "2024-12-19 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/niter_dust": {
+    "criteria": {
+      "niter_dust": "2024-12-19 19:48:44 +0000"
     },
     "done": true
   },
@@ -4144,21 +4126,39 @@
     },
     "done": true
   },
+  "scguns:main/craft_powered_stamping_press": {
+    "criteria": {
+      "powered_stamping_press": "2024-12-19 19:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:48:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "scguns:main/craft_gun_parts_mold": {
+    "criteria": {
+      "gun_parts_mold": "2024-12-19 19:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 19:51:45 +0000"
     },
     "done": true
   },
-  "scguns:main/end_blueprint": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "end_blueprint": "2024-12-19 19:48:28 +0000"
+      "has_quartz": "2024-12-19 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:51:45 +0000"
     },
     "done": true
   },
