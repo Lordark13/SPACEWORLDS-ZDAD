@@ -479,3 +479,6 @@ Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
 [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4af3af4d]Trying to start horde event on day 150 with nextDay 150 and time 18000
 Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6b83959b
 [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4af3af4d]Spawntable is empty, canceling event start.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@dc660a7]Trying to start horde event on day 90 with nextDay 90 and time 18000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3405f2a8
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@dc660a7]Spawntable is empty, canceling event start.

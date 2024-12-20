@@ -1491,3 +1491,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 02:02:10.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3274, y=66, z=-1789} BlockPos{x=-3274, y=65, z=-1789}
 [20Dec2024 02:02:10.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3273, y=66, z=-1788} BlockPos{x=-3274, y=65, z=-1789}
 [20Dec2024 02:02:10.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3274, y=66, z=-1789} BlockPos{x=-3274, y=65, z=-1789}
+[20Dec2024 02:47:32.524] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@dc660a7]Trying to start horde event on day 90 with nextDay 90 and time 18000
+[20Dec2024 02:47:32.525] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3405f2a8
+[20Dec2024 02:47:32.525] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@dc660a7]Spawntable is empty, canceling event start.
