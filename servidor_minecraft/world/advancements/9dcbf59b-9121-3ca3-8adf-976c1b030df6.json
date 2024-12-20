@@ -4298,6 +4298,12 @@
     },
     "done": true
   },
+  "scguns:main/scorched/locust": {
+    "criteria": {
+      "locust": "2024-12-20 02:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-20 01:30:56 +0000"
