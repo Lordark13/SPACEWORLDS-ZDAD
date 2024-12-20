@@ -4299,6 +4299,12 @@
     },
     "done": true
   },
+  "scguns:main/craft_lightning_rod_connector": {
+    "criteria": {
+      "lightning_rod_connector": "2024-12-20 01:31:59 +0000"
+    },
+    "done": true
+  },
   "scguns:main/diamond_steel_blueprint": {
     "criteria": {
       "diamond_steel_blueprint": "2024-12-20 01:11:15 +0000"
@@ -4338,6 +4344,12 @@
   "scguns:main/cowboy/pax": {
     "criteria": {
       "pax": "2024-12-20 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-20 01:30:58 +0000"
     },
     "done": true
   },
