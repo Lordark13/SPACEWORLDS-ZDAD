@@ -1234,3 +1234,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 22:01:18.645] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
 [20Dec2024 22:06:59.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/effect/CustomExplosion$CustomBlockInteraction
 [20Dec2024 22:49:31.197] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> wua a estar afk jugando valorant B>
+[20Dec2024 23:16:17.800] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> vuelvo en un rato
+[20Dec2024 23:16:19.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[20Dec2024 23:16:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[20Dec2024 23:19:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
+[20Dec2024 23:19:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: cierro el celvel?
