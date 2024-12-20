@@ -3936,3 +3936,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 19:42:06.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Dec2024 19:42:06.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [20Dec2024 19:42:23.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[20Dec2024 19:47:06.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 19:47:06.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 19:49:42.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[20Dec2024 19:49:42.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: riotnixz
+[20Dec2024 19:49:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: riotnixz
+[20Dec2024 19:49:57.493] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ?
+[20Dec2024 19:50:41.396] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que paso galleta¡
+[20Dec2024 19:52:06.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 19:52:06.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
