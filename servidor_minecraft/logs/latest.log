@@ -1226,3 +1226,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 21:13:08.645] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> es lenta pero es lo que hay
 [20Dec2024 21:15:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
 [20Dec2024 21:15:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[20Dec2024 21:49:47.400] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@280087a2]Trying to start horde event on day 100 with nextDay 100 and time 18000
+[20Dec2024 21:49:47.400] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@13634b6a
+[20Dec2024 21:49:47.401] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@280087a2]Spawntable is empty, canceling event start.
