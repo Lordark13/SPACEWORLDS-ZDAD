@@ -4479,5 +4479,11 @@
     },
     "done": true
   },
+  "scguns:main/scorched/rat_king_and_queen": {
+    "criteria": {
+      "rat_king_and_queen": "2024-12-20 21:52:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
