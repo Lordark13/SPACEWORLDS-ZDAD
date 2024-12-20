@@ -30,6 +30,7 @@
       "minecraft:snowy_plains": "2024-12-19 20:51:42 +0000",
       "minecraft:stony_shore": "2024-12-19 22:42:57 +0000",
       "minecraft:snowy_taiga": "2024-12-19 22:15:23 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 00:11:05 +0000",
       "minecraft:cold_ocean": "2024-12-19 20:50:45 +0000",
       "minecraft:forest": "2024-12-19 22:43:44 +0000",
       "minecraft:deep_cold_ocean": "2024-12-19 20:39:02 +0000",
@@ -1545,9 +1546,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
   "knize1007:day70": {
     "criteria": {
       "play75days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 00:08:02 +0000"
     },
     "done": true
   },
@@ -1566,6 +1579,12 @@
   "knize1007:day40": {
     "criteria": {
       "play25days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 00:08:02 +0000"
     },
     "done": true
   },
@@ -1617,9 +1636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
     },
     "done": true
   },
@@ -1629,15 +1660,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-20 00:00:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
     },
     "done": true
   },
@@ -1662,6 +1729,18 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 00:08:02 +0000"
     },
     "done": true
   },

@@ -2297,6 +2297,12 @@
     },
     "done": true
   },
+  "scguns:main/scorched_ingot": {
+    "criteria": {
+      "scorched_ingot": "2024-12-20 00:15:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-19 23:55:11 +0000"
