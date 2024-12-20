@@ -1239,3 +1239,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 23:16:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
 [20Dec2024 23:19:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
 [20Dec2024 23:19:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: cierro el celvel?
+[20Dec2024 23:28:12.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
+[20Dec2024 23:28:12.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
+[20Dec2024 23:28:12.745] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 23:31:36.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.191.186.119:34707] logged in with entity id 55384 at (-3261.300000011921, 66.0, -1768.3885241280761)
+[20Dec2024 23:31:36.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[20Dec2024 23:35:15.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:50839] logged in with entity id 55685 at (-3264.8573442200836, 34.0, -1770.300000011921)
+[20Dec2024 23:35:15.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[20Dec2024 23:35:27.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11771ms or 235 ticks behind
+[20Dec2024 23:36:11.209] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> hay tantas brujas que se estan suicidando
