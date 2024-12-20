@@ -1375,3 +1375,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:25:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: murio hdeception
 [20Dec2024 01:25:41.980] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta
 [20Dec2024 01:25:57.926] [ForkJoinPool.commonPool-worker-49/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> das los materiales para hacer el arma pero no para hacer las balas
+[20Dec2024 01:40:30.831] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:hostilemobs' in progress file ./world/advancements/6247ac24-69ce-3cb3-8456-4b77c1b1a6cf.json - it doesn't exist anymore?
+[20Dec2024 01:40:30.832] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:root' in progress file ./world/advancements/6247ac24-69ce-3cb3-8456-4b77c1b1a6cf.json - it doesn't exist anymore?
+[20Dec2024 01:40:30.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:48663] logged in with entity id 271087 at (-1478.386304270405, 29.76267191401917, 2505.334252420253)
+[20Dec2024 01:40:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[20Dec2024 01:41:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
