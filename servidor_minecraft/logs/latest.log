@@ -1248,3 +1248,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 23:35:15.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
 [20Dec2024 23:35:27.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11771ms or 235 ticks behind
 [20Dec2024 23:36:11.209] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> hay tantas brujas que se estan suicidando
+[20Dec2024 23:42:26.300] [ForkJoinPool.commonPool-worker-14/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> estaban muriendo por entiti culling xd
+[20Dec2024 23:44:50.040] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> no puedo hacer velocidad 2
