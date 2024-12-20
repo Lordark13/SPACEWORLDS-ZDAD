@@ -1177,3 +1177,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 20:21:12.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2534, y=80, z=-4361} BlockPos{x=2534, y=78, z=-4361}
 [20Dec2024 20:21:13.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2535, y=80, z=-4360} BlockPos{x=2535, y=78, z=-4360}
 [20Dec2024 20:21:13.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2535, y=80, z=-4360} BlockPos{x=2535, y=78, z=-4360}
+[20Dec2024 20:25:32.846] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:27:53.645] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:28:38.654] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[20Dec2024 20:28:38.654] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[20Dec2024 20:28:39.532] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[20Dec2024 20:28:49.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1438, y=80, z=-3629} but found not block entity block Block{minecraft:netherrack} at location
+[20Dec2024 20:28:49.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:netherrack} but failed at location BlockPos{x=1438, y=80, z=-3629}
+[20Dec2024 20:29:35.744] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:29:47.402] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6995caec]Trying to start horde event on day 160 with nextDay 160 and time 18000
+[20Dec2024 20:29:47.405] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3a24f13a
+[20Dec2024 20:29:47.406] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6995caec]Spawntable is empty, canceling event start.
+[20Dec2024 20:30:15.195] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:30:15.859] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-48, -194], discarding
+[20Dec2024 20:30:16.828] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -194], discarding
+[20Dec2024 20:30:16.829] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -193], discarding
+[20Dec2024 20:30:16.829] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -192], discarding
+[20Dec2024 20:30:22.129] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[20Dec2024 20:30:22.130] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[20Dec2024 20:30:23.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[20Dec2024 20:30:23.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[20Dec2024 20:30:23.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[20Dec2024 20:30:23.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[20Dec2024 20:30:23.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[20Dec2024 20:30:23.010] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[20Dec2024 20:30:39.383] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -161], discarding
+[20Dec2024 20:30:39.384] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -161], discarding
+[20Dec2024 20:30:39.385] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -161], discarding
+[20Dec2024 20:30:39.389] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -160], discarding
+[20Dec2024 20:30:39.390] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -160], discarding
+[20Dec2024 20:30:39.391] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -160], discarding
+[20Dec2024 20:30:39.397] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -159], discarding
+[20Dec2024 20:30:39.399] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -159], discarding
+[20Dec2024 20:30:39.400] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -159], discarding
+[20Dec2024 20:30:39.404] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -158], discarding
+[20Dec2024 20:30:39.405] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -158], discarding
+[20Dec2024 20:30:39.406] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -158], discarding
+[20Dec2024 20:30:39.416] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -157], discarding
+[20Dec2024 20:30:39.417] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -157], discarding
+[20Dec2024 20:30:39.418] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -157], discarding
+[20Dec2024 20:30:49.344] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:31:09.594] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:31:29.545] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:31:55.095] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:32:30.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[20Dec2024 20:33:56.295] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)

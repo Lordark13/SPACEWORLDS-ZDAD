@@ -99,3 +99,6 @@ Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
 Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
 Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
 Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@6995caec]Trying to start horde event on day 160 with nextDay 160 and time 18000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3a24f13a
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@6995caec]Spawntable is empty, canceling event start.
