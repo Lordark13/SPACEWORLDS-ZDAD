@@ -1170,3 +1170,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 20:03:26.576] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [28, -206], discarding
 [20Dec2024 20:03:41.846] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
 [20Dec2024 20:03:58.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[20Dec2024 20:16:30.995] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:19:31.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[20Dec2024 20:19:31.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[20Dec2024 20:21:12.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2534, y=80, z=-4361} BlockPos{x=2534, y=78, z=-4361}
+[20Dec2024 20:21:12.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2534, y=80, z=-4361} BlockPos{x=2534, y=78, z=-4361}
+[20Dec2024 20:21:13.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2535, y=80, z=-4360} BlockPos{x=2535, y=78, z=-4360}
+[20Dec2024 20:21:13.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2535, y=80, z=-4360} BlockPos{x=2535, y=78, z=-4360}
