@@ -1380,3 +1380,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:40:30.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:48663] logged in with entity id 271087 at (-1478.386304270405, 29.76267191401917, 2505.334252420253)
 [20Dec2024 01:40:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
 [20Dec2024 01:41:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[20Dec2024 01:45:25.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[20Dec2024 01:45:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[20Dec2024 01:47:31.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context

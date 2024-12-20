@@ -11715,3 +11715,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:41:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
 [20Dec2024 01:43:26.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Dec2024 01:43:26.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:45:25.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[20Dec2024 01:45:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[20Dec2024 01:47:31.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[20Dec2024 01:48:26.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:48:26.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:53:26.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:53:26.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
