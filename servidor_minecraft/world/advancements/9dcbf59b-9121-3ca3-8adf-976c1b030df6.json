@@ -4120,6 +4120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-20 00:22:53 +0000"
+    },
+    "done": true
+  },
   "knize1007:day60": {
     "criteria": {
       "play25days": "2024-12-19 23:44:57 +0000"
@@ -4129,6 +4135,12 @@
   "knize1007:day50": {
     "criteria": {
       "play50days": "2024-12-19 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 00:22:53 +0000"
     },
     "done": true
   },
@@ -4168,6 +4180,36 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-20 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-20 00:22:54 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_powered_macerator": {
+    "criteria": {
+      "powered_macerator": "2024-12-20 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_medium_casing_mold": {
+    "criteria": {
+      "medium_casing_mold": "2024-12-20 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 00:22:54 +0000"
+    },
+    "done": true
+  },
   "knize1007:day100": {
     "criteria": {
       "play100days": "2024-12-19 23:44:57 +0000"
@@ -4177,6 +4219,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-20 00:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-20 00:23:15 +0000"
     },
     "done": true
   },

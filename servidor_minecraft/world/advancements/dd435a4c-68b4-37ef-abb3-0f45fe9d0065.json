@@ -4361,5 +4361,17 @@
     },
     "done": true
   },
+  "scguns:main/scorched_ingot": {
+    "criteria": {
+      "scorched_ingot": "2024-12-20 00:27:49 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:heavy_machine_gun_adv": {
+    "criteria": {
+      "heavy_machine_gun_adv": "2024-12-20 00:27:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

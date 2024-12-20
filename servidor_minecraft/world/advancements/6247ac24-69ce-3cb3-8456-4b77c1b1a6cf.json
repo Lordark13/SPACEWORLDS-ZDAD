@@ -2309,6 +2309,12 @@
     },
     "done": true
   },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2024-12-20 00:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-19 23:55:11 +0000"
