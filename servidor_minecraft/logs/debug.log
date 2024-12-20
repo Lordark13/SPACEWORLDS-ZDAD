@@ -3945,3 +3945,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 19:50:41.396] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que paso galleta¡
 [20Dec2024 19:52:06.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Dec2024 19:52:06.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 19:56:37.534] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[20Dec2024 19:57:06.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 19:57:06.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 20:00:33.594] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[20Dec2024 20:00:39.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: dia 1 esperando la muerte de hdecepticon
+[20Dec2024 20:00:39.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: dia 1 esperando la muerte de hdecepticon
+[20Dec2024 20:00:41.743] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:00:51.527] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y te vas a quedar esperando xd
+[20Dec2024 20:00:59.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken
+[20Dec2024 20:00:59.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_gate
+[20Dec2024 20:00:59.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_basement
+[20Dec2024 20:01:05.443] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:01:11.449] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[20Dec2024 20:01:12.189] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Orientation
+[20Dec2024 20:01:12.191] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/api/RailChunkType
+[20Dec2024 20:01:12.192] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Railway$RailDirection
+[20Dec2024 20:01:12.474] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/BuildingInfo$StreetType
+[20Dec2024 20:01:12.487] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$AvoidChunk
+[20Dec2024 20:01:12.554] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
+[20Dec2024 20:01:12.556] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$HardAirSetting
+[20Dec2024 20:01:12.571] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[20Dec2024 20:01:13.853] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
+[20Dec2024 20:01:13.855] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
+[20Dec2024 20:01:18.595] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:01:25.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/prison
+[20Dec2024 20:01:25.895] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:01:35.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[20Dec2024 20:01:43.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/shelter
+[20Dec2024 20:01:43.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/shelter_gate
+[20Dec2024 20:01:43.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/shelter_basement
+[20Dec2024 20:01:46.220] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[20Dec2024 20:01:49.944] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 20:01:53.680] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[20Dec2024 20:01:53.681] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[20Dec2024 20:01:53.691] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[20Dec2024 20:01:53.693] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[20Dec2024 20:01:53.757] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:53.760] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[20Dec2024 20:01:53.824] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:53.827] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:53.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:53.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
+[20Dec2024 20:01:53.833] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:53.834] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
+[20Dec2024 20:01:53.834] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:55.257] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[20Dec2024 20:01:55.284] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[20Dec2024 20:01:55.286] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[20Dec2024 20:01:55.325] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[20Dec2024 20:01:56.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[20Dec2024 20:02:06.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 20:02:06.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 20:02:32.084] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -161], discarding
+[20Dec2024 20:02:32.722] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -161], discarding
+[20Dec2024 20:02:34.594] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -161], discarding
+[20Dec2024 20:02:34.595] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-48, -161], discarding
+[20Dec2024 20:02:34.597] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -160], discarding
+[20Dec2024 20:02:34.599] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -160], discarding
+[20Dec2024 20:02:34.610] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -160], discarding
+[20Dec2024 20:02:34.611] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:factory
+[20Dec2024 20:02:34.611] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-48, -160], discarding
+[20Dec2024 20:02:34.620] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -159], discarding
+[20Dec2024 20:02:34.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -159], discarding
+[20Dec2024 20:02:34.623] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -159], discarding
+[20Dec2024 20:02:34.624] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-48, -159], discarding
+[20Dec2024 20:02:34.755] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -158], discarding
+[20Dec2024 20:02:34.759] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -158], discarding
+[20Dec2024 20:02:34.760] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -158], discarding
+[20Dec2024 20:02:34.761] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-48, -158], discarding
+[20Dec2024 20:02:34.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[20Dec2024 20:02:34.799] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-51, -157], discarding
+[20Dec2024 20:02:34.800] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-50, -157], discarding
+[20Dec2024 20:02:34.801] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-49, -157], discarding
+[20Dec2024 20:02:34.802] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [-48, -157], discarding
+[20Dec2024 20:02:41.241] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -192], discarding
+[20Dec2024 20:02:41.243] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:littlehouse
+[20Dec2024 20:02:41.243] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-48, -192], discarding
+[20Dec2024 20:02:41.244] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-47, -192], discarding
+[20Dec2024 20:02:44.839] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-48, -193], discarding
+[20Dec2024 20:02:44.850] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -193], discarding
+[20Dec2024 20:02:44.851] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-47, -193], discarding
+[20Dec2024 20:02:46.199] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[20Dec2024 20:02:46.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/jungle_shelter
+[20Dec2024 20:02:46.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-49, -194], discarding
+[20Dec2024 20:02:46.982] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-48, -194], discarding
+[20Dec2024 20:02:46.984] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:littlehouse' in chunk [-47, -194], discarding
