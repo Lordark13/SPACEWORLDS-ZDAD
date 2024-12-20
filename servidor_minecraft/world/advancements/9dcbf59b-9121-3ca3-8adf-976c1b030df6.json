@@ -4250,9 +4250,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-20 01:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
     },
     "done": true
   },
@@ -4274,6 +4286,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2024-12-20 01:25:17 +0000"
@@ -4292,15 +4316,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-12-20 01:26:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "scguns:main/scorched/locust": {
     "criteria": {
       "locust": "2024-12-20 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
     },
     "done": true
   },
@@ -4322,6 +4382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2024-12-20 01:25:17 +0000"
@@ -4334,15 +4400,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-20 01:25:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
+    },
+    "done": true
+  },
   "scguns:main/scorched/astella": {
     "criteria": {
       "astella": "2024-12-20 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-20 02:15:59 +0000"
     },
     "done": true
   },
