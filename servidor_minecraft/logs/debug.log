@@ -11491,3 +11491,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 00:50:08.282] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [20Dec2024 00:50:08.282] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [20Dec2024 00:50:09.282] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[20Dec2024 00:53:26.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 00:53:26.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 00:58:26.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 00:58:26.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:01:43.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/mechanics/HeavyMachineGunEntity$Direction
+[20Dec2024 01:03:26.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:03:26.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:07:32.525] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4af3af4d]Trying to start horde event on day 150 with nextDay 150 and time 18000
+[20Dec2024 01:07:32.526] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6b83959b
+[20Dec2024 01:07:32.526] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4af3af4d]Spawntable is empty, canceling event start.
+[20Dec2024 01:08:26.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:08:26.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:13:26.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:13:26.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:18:26.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:18:26.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:22:41.893] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[20Dec2024 01:23:11.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 9.30135522495857,-7.418926910342606,10.735743587641991
+[20Dec2024 01:23:11.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 8.995869389384097,-7.183717164150707,10.38350458943819
+[20Dec2024 01:23:11.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 8.691326610908163,-6.947120445795477,10.032296688204951
+[20Dec2024 01:23:11.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 8.38746050926511,-6.709963714217579,9.681833864356577
+[20Dec2024 01:23:11.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 8.084048226821324,-6.4728591096293115,9.331876437087885
+[20Dec2024 01:23:11.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 7.78090298624511,-6.236255638713658,8.982223508540756
+[20Dec2024 01:23:11.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 7.477867637616328,-6.0004789355302535,8.632705571327051
+[20Dec2024 01:23:11.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 7.174808578351531,-5.765761836768775,8.28317847708604
+[20Dec2024 01:23:11.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 6.8716111960529815,-5.532267535760823,7.9335181700537305
+[20Dec2024 01:23:11.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 6.568175976948169,-5.300107248691063,7.58361659945831
+[20Dec2024 01:23:11.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 6.570333830550226,-5.295922547944656,7.585886476152609
+[20Dec2024 01:23:11.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 6.259786290470402,-5.072732827337617,7.228236909024417
+[20Dec2024 01:23:26.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Dec2024 01:23:26.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Dec2024 01:23:37.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1125836431106109,2.408182792621375,-19.125683372750927
+[20Dec2024 01:23:37.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1173996953357346,2.2085226193239293,-18.639985190450034
+[20Dec2024 01:23:37.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1224143150730015,2.025840850233621,-18.145582981156622
+[20Dec2024 01:23:37.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1261393417362342,1.8593425725332224,-17.64446374149975
+[20Dec2024 01:23:37.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.127125279786469,1.708058585322803,-17.138442726908806
+[20Dec2024 01:23:37.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1239922313807256,1.57087204798853,-16.629172336002284
+[20Dec2024 01:23:37.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1154541233249802,1.4465403814335787,-16.118151934691696
+[20Dec2024 01:23:37.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.1003369766758624,1.3337145314544188,-15.606737135115736
+[20Dec2024 01:23:37.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.077591878189196,1.2309571273188737,-15.096147958529627
+[20Dec2024 01:23:37.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.0463032420225318,1.136760400158451,-14.58747588109145
+[20Dec2024 01:23:37.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.03447821182408,0.9232519330293627,-14.111333343229944
+[20Dec2024 01:23:37.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of RIOTNyx) moved too quickly! 1.0099157875656601,0.7303554349003321,-13.624143572237472
+[20Dec2024 01:23:37.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx moved too quickly! 0.41784424668230713,1.2604753775138136,-12.712453031204404
