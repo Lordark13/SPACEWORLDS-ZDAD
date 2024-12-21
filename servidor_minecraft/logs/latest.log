@@ -2,3 +2,21 @@
 [21Dec2024 00:16:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
 [21Dec2024 00:16:48.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56696ms or 1133 ticks behind
 [21Dec2024 00:27:21.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31b196e0[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.191.186.119:34179) lost connection: Disconnected
+[21Dec2024 01:15:27.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2463b491[id=<null>,name=ArazibeMoney50_,properties={},legacy=false] (/127.10.2.120:54599) lost connection: Disconnected
+[21Dec2024 01:15:34.162] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:hostilemobs' in progress file ./world/advancements/4793fd2f-f3d0-351e-9ec7-5a9c7e1b6788.json - it doesn't exist anymore?
+[21Dec2024 01:15:34.163] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:root' in progress file ./world/advancements/4793fd2f-f3d0-351e-9ec7-5a9c7e1b6788.json - it doesn't exist anymore?
+[21Dec2024 01:15:34.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:51313] logged in with entity id 57953 at (-184.4189428644455, 55.75933842639484, 488.03996601765454)
+[21Dec2024 01:15:34.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[21Dec2024 01:16:16.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/EntityAttributeType
+[21Dec2024 01:16:16.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/sound/SoundType
+[21Dec2024 01:16:16.989] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/58653, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 01:16:16.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/dialog/DialogType
+[21Dec2024 01:16:16.993] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/58653, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 01:16:16.996] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/58653, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 01:16:16.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/action/ActionDataType
+[21Dec2024 01:16:17.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/dialog/DialogButtonType
+[21Dec2024 01:16:17.012] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@1b15a25e] for Humanoid['Endermandrow TSI'/58653, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 01:16:17.738] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/58662, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 01:16:17.741] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/58662, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 01:16:17.742] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/58662, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[21Dec2024 01:16:17.743] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@e434d95, net.minecraft.world.item.trading.MerchantOffer@4cdf8c4f, net.minecraft.world.item.trading.MerchantOffer@3d23c9d6, net.minecraft.world.item.trading.MerchantOffer@388409d0] for Humanoid['Kisu'/58662, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
