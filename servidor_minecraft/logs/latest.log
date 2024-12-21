@@ -1098,3 +1098,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:01:22.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx moved wrongly!
 [21Dec2024 02:04:25.828] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ???
 [21Dec2024 02:04:40.134] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ArazibeMoney50_?
+[21Dec2024 02:07:44.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:48005] logged in with entity id 2262 at (-3246.0837319754964, 80.93273107322449, -1749.721641004358)
+[21Dec2024 02:07:44.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[21Dec2024 02:07:56.973] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> TIRA DROP GALLETA
+[21Dec2024 02:08:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[21Dec2024 02:08:42.834] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> Rebondrake5556 ven un momento
+[21Dec2024 02:08:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[21Dec2024 02:09:09.488] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ponte un survival
+[21Dec2024 02:09:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[21Dec2024 02:09:23.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 lost too much blood while trying to escape RIOTNyx.
+[21Dec2024 02:09:26.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[21Dec2024 02:09:26.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[21Dec2024 02:09:26.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[21Dec2024 02:09:26.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[21Dec2024 02:09:26.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Dec2024 02:09:26.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[21Dec2024 02:09:27.970] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:09:28.621] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[21Dec2024 02:09:29.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[21Dec2024 02:09:30.523] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ...
+[21Dec2024 02:09:36.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.191.186.119:51675] logged in with entity id 2763 at (-3271.373197916162, 65.92159999847412, -1772.3734446505296)
+[21Dec2024 02:09:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[21Dec2024 02:09:39.124] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ponte la armadura que tengo
+[21Dec2024 02:09:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported ArazibeMoney50_ to Rebondrake5556]
+[21Dec2024 02:09:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[21Dec2024 02:09:50.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21Dec2024 02:10:05.332] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> Rebondrake5556?
+[21Dec2024 02:10:16.225] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pera
+[21Dec2024 02:10:30.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Dec2024 02:10:30.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[21Dec2024 02:10:38.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[21Dec2024 02:10:44.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[21Dec2024 02:10:45.606] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> diablo loco
+[21Dec2024 02:10:46.788] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cebolla
+[21Dec2024 02:10:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[21Dec2024 02:11:16.474] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> tenia que probar B>
+[21Dec2024 02:11:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[21Dec2024 02:11:24.579] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> fregresxe
+[21Dec2024 02:11:27.623] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> regrese
+[21Dec2024 02:11:27.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[21Dec2024 02:11:35.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/effect/CustomExplosion$CustomBlockInteraction
+[21Dec2024 02:11:35.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[21Dec2024 02:11:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[21Dec2024 02:11:50.283] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ven galleta
+[21Dec2024 02:11:55.650] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuanto?
+[21Dec2024 02:11:56.525] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ?
+[21Dec2024 02:12:08.148] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> 1 cora
+[21Dec2024 02:12:16.933] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pero da muchos efectos
+[21Dec2024 02:12:27.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[21Dec2024 02:12:28.789] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> lo unico que hace es
+[21Dec2024 02:12:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[21Dec2024 02:12:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[21Dec2024 02:12:34.306] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> stunear y confundir por como 5 segundos
+[21Dec2024 02:12:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[21Dec2024 02:12:40.224] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> no hace daño
+[21Dec2024 02:12:48.372] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> pegamw
+[21Dec2024 02:12:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[21Dec2024 02:12:52.573] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ok
+[21Dec2024 02:12:59.409] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> el fin se acerca
+[21Dec2024 02:13:09.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[21Dec2024 02:13:09.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[21Dec2024 02:13:16.274] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@78eb6099]Trying to start horde event on day 170 with nextDay 170 and time 18000
+[21Dec2024 02:13:16.277] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@38bbc7cc
+[21Dec2024 02:13:16.278] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@78eb6099]Spawntable is empty, canceling event start.
+[21Dec2024 02:13:19.021] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> oooo
+[21Dec2024 02:13:23.972] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> luego de que termine la parte evento del server
+[21Dec2024 02:13:24.437] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> tiras drop?
+[21Dec2024 02:13:37.452] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> el server se podra seguir jugando en otro host
+[21Dec2024 02:13:41.537] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pero ya no sera evento
+[21Dec2024 02:13:42.836] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> parte evento del server?
+[21Dec2024 02:13:46.641] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> osea
+[21Dec2024 02:14:05.058] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cuando se termine el server namas pasame el mundo para guardarlo de recuerda nada mas xD
+[21Dec2024 02:14:06.039] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> cuando termine el evento
+[21Dec2024 02:14:18.123] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> total no creo que lo juegue despues pq no voy a tener ninguna razon
+[21Dec2024 02:14:27.099] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> se podra seguir jugando
+[21Dec2024 02:14:31.160] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> en otro host
+[21Dec2024 02:14:31.252] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> oooo
+[21Dec2024 02:14:37.160] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> no se aternos o falix
+[21Dec2024 02:15:04.023] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y cuando se conecta el team rusheadores?
+[21Dec2024 02:15:05.525] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> paso a tirar unos poile
+[21Dec2024 02:15:13.429] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> Ni idea
+[21Dec2024 02:15:26.775] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> la verdad espero que se conecten pal final del evento
+[21Dec2024 02:15:33.275] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> cuando es?
+[21Dec2024 02:15:37.674] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> asi queda mas cheto
+[21Dec2024 02:15:50.540] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> el evento originalmente duraria 30 dias
+[21Dec2024 02:16:00.379] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ahora durara hasta el dia 15 o 20
+[21Dec2024 02:16:02.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
