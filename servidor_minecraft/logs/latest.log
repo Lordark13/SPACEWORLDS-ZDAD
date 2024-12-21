@@ -1248,3 +1248,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:25:59.921] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
 [21Dec2024 02:26:09.587] [Server thread/INFO] [Easy NPC/]: Opening menu 8374a704-56d3-4b33-8a58-1dc399a566c9 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['ArazibeMoney50_'/4558, l='ServerLevel[World]', x=18.09, y=65.00, z=-17.83] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
 [21Dec2024 02:26:09.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
+[21Dec2024 02:26:31.248] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[21Dec2024 02:26:48.284] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ven
+[21Dec2024 02:27:11.451] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[21Dec2024 02:27:12.934] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> ...
+[21Dec2024 02:27:15.526] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> realmente
+[21Dec2024 02:27:18.701] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> un desperdicio de materiales
+[21Dec2024 02:27:22.502] [ForkJoinPool.commonPool-worker-10/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> creo que no sirve para nada
+[21Dec2024 02:27:48.502] [Server thread/INFO] [Easy NPC/]: Opening menu e79e4a21-96a4-43d8-97b4-9e484e7105c8 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['ArazibeMoney50_'/4558, l='ServerLevel[World]', x=17.20, y=65.00, z=-17.58] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[21Dec2024 02:28:50.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dreoufther[/127.44.182.56:44875] logged in with entity id 11465 at (-1572.8565644907496, 59.0, 770.9144845538999)
+[21Dec2024 02:28:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dreoufther joined the game
+[21Dec2024 02:28:51.421] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:28:56.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[21Dec2024 02:28:56.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[21Dec2024 02:29:37.514] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> donde estoy?
+[21Dec2024 02:29:50.925] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> cual queres probar
+[21Dec2024 02:29:52.237] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> la quimica
+[21Dec2024 02:29:54.324] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> o la explosiva
+[21Dec2024 02:30:12.080] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> Quimica
+[21Dec2024 02:30:39.988] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[21Dec2024 02:30:44.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[21Dec2024 02:30:58.476] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> q tanto
+[21Dec2024 02:30:58.892] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> 3 coras
+[21Dec2024 02:31:06.025] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> minita B>
+[21Dec2024 02:31:13.809] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> 1 y medio
+[21Dec2024 02:31:17.588] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me bajo 2 xd
+[21Dec2024 02:31:33.924] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> y si dejamos esto en la base de rusheadores?
+[21Dec2024 02:31:41.689] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ta hecha mierda ni suelo hay xd
+[21Dec2024 02:31:47.226] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y tampoco tenemos hierro
+[21Dec2024 02:31:49.890] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> hay arriba
+[21Dec2024 02:32:00.239] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> de alguna manera tenemos mas oro y diamante que hjierroi
+[21Dec2024 02:32:05.126] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> me sirve
+[21Dec2024 02:32:34.812] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/16360, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:32:34.812] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/16360, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:32:34.813] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/16360, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:32:34.813] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@311f72f0] for Humanoid['Endermandrow TSI'/16360, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:32:51.317] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/16444, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:32:51.318] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/16444, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:32:51.319] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/16444, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:32:51.319] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@b935805] for Humanoid['Endermandrow TSI'/16444, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:33:06.940] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 5 quimicas y 8 normales ya no me alcanso pam as
+[21Dec2024 02:33:27.121] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:33:29.663] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/16933, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:33:29.663] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/16933, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:33:29.664] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/16933, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[21Dec2024 02:33:29.664] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@3a26783, net.minecraft.world.item.trading.MerchantOffer@6f32a88c, net.minecraft.world.item.trading.MerchantOffer@7269815f, net.minecraft.world.item.trading.MerchantOffer@77be2198] for Humanoid['Kisu'/16933, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[21Dec2024 02:33:51.478] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> y ya si queres les dejas una placa con esto xd
+[21Dec2024 02:33:59.381] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si
+[21Dec2024 02:34:02.790] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> explotan muy rapido no les va a dar tiempo de reaccion
+[21Dec2024 02:34:31.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
