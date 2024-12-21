@@ -1370,3 +1370,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:45:30.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
 [21Dec2024 02:45:30.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
 [21Dec2024 02:46:03.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[21Dec2024 03:06:08.821] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
