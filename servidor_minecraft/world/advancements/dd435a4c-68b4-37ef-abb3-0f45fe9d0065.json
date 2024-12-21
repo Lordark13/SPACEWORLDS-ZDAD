@@ -4492,5 +4492,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2024-12-21 02:53:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

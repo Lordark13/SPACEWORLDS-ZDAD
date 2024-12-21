@@ -4800,3 +4800,88 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:34:31.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [21Dec2024 02:36:18.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [21Dec2024 02:36:18.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 02:39:29.734] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/20636, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:39:29.735] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/20636, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:39:29.735] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/20636, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:39:29.736] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@e332324] for Humanoid['Endermandrow TSI'/20636, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:39:38.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[21Dec2024 02:40:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[21Dec2024 02:40:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: a
+[21Dec2024 02:40:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: a
+[21Dec2024 02:40:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dreoufther: a
+[21Dec2024 02:40:22.242] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/20981, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:40:22.243] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/20981, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:40:22.243] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/20981, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:40:22.244] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@20f92175] for Humanoid['Endermandrow TSI'/20981, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:40:36.771] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:41:18.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 02:41:18.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 02:42:06.170] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:42:10.880] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[21Dec2024 02:42:11.274] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Orientation
+[21Dec2024 02:42:11.281] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/BuildingInfo$StreetType
+[21Dec2024 02:42:11.293] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/api/RailChunkType
+[21Dec2024 02:42:11.294] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Railway$RailDirection
+[21Dec2024 02:42:11.357] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$AvoidChunk
+[21Dec2024 02:42:21.720] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:42:43.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken
+[21Dec2024 02:42:43.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_gate
+[21Dec2024 02:42:43.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_basement
+[21Dec2024 02:42:48.921] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:42:57.334] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$HardAirSetting
+[21Dec2024 02:42:57.335] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
+[21Dec2024 02:42:57.336] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
+[21Dec2024 02:42:57.381] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
+[21Dec2024 02:42:58.021] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[21Dec2024 02:43:01.808] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[21Dec2024 02:43:18.120] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:43:18.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[21Dec2024 02:43:32.923] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:43:36.421] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:43:47.170] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:43:50.222] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:43:56.375] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.376] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.377] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.378] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.379] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.379] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.380] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.381] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.382] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.384] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.384] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.385] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.386] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.817] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.823] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.823] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.823] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.823] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.824] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.824] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.824] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.825] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.825] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.825] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:56.826] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[21Dec2024 02:43:57.339] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[21Dec2024 02:43:57.375] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:44:29.124] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:45:28.466] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/34373, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:45:28.467] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/34373, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:45:28.467] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/34373, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[21Dec2024 02:45:28.468] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@6fb7521c, net.minecraft.world.item.trading.MerchantOffer@6330ad5d, net.minecraft.world.item.trading.MerchantOffer@5c272ff4, net.minecraft.world.item.trading.MerchantOffer@261e6f12] for Humanoid['Kisu'/34373, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[21Dec2024 02:45:28.838] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/34431, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:45:28.839] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/34431, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:45:28.839] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/34431, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:45:28.840] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@22a43fbb] for Humanoid['Endermandrow TSI'/34431, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:45:30.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[21Dec2024 02:45:30.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[21Dec2024 02:46:03.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[21Dec2024 02:46:18.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 02:46:18.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 02:51:18.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 02:51:18.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 02:56:18.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 02:56:18.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
