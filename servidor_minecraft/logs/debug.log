@@ -4845,3 +4845,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 01:36:45.306] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/59459, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [21Dec2024 01:36:45.306] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/59459, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
 [21Dec2024 01:36:45.307] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7b7e0dc6] for Humanoid['Endermandrow TSI'/59459, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 01:37:13.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[21Dec2024 01:37:13.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[21Dec2024 01:38:15.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 01:38:15.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 01:40:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[21Dec2024 01:40:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Dec2024 01:40:46.847] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[21Dec2024 01:40:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 01:40:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 01:40:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 01:40:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[21Dec2024 01:40:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
+[21Dec2024 01:40:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/lostcities:lostcity
+[21Dec2024 01:40:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
+[21Dec2024 01:40:50.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 01:40:50.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 01:40:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 01:40:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 01:40:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[21Dec2024 01:40:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 01:40:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 01:40:50.432] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Dec2024 01:40:50.432] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Dec2024 01:40:50.432] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
