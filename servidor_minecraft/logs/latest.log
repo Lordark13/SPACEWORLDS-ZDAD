@@ -1184,3 +1184,67 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:15:50.540] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> el evento originalmente duraria 30 dias
 [21Dec2024 02:16:00.379] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ahora durara hasta el dia 15 o 20
 [21Dec2024 02:16:02.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[21Dec2024 02:16:11.181] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ando viendo igual
+[21Dec2024 02:16:12.945] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que dia es hoy?
+[21Dec2024 02:16:23.822] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> sino me equivoco
+[21Dec2024 02:16:24.732] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> 12
+[21Dec2024 02:16:27.284] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> dia 12
+[21Dec2024 02:16:38.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[21Dec2024 02:16:38.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[21Dec2024 02:16:42.476] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 8 dias o 3 dias faltan}
+[21Dec2024 02:16:46.330] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> chale
+[21Dec2024 02:17:16.083] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> aun necesitas menbrana?
+[21Dec2024 02:17:19.293] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nan
+[21Dec2024 02:17:37.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: recuerden que el sv lo podran seguir jugando en otro host y tambien les pasare el mundo por si quieren pues no se jugar o tenerlo de recuerdo
+[21Dec2024 02:17:37.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: recuerden que el sv lo podran seguir jugando en otro host y tambien les pasare el mundo por si quieren pues no se jugar o tenerlo de recuerdo
+[21Dec2024 02:17:38.522] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> lo podria usar para pvp
+[21Dec2024 02:17:54.088] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta mejor terminalo en el dia 15
+[21Dec2024 02:17:59.676] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> pq 8 dias la verdad
+[21Dec2024 02:18:04.827] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> mucho tiempox d
+[21Dec2024 02:18:07.172] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> 3 dias sufi
+[21Dec2024 02:18:14.581] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si
+[21Dec2024 02:18:37.822] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nose ni q te di xd
+[21Dec2024 02:18:40.481] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me dio 4 corazones extras
+[21Dec2024 02:18:43.671] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a poco si
+[21Dec2024 02:18:46.472] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si
+[21Dec2024 02:18:47.322] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> health boost te di
+[21Dec2024 02:18:57.594] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> grande absorsion 3
+[21Dec2024 02:19:07.271] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> la idea seria spamearlo asta pegar levitacion xd
+[21Dec2024 02:19:24.171] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> de ahi literal es como tiro al blanco
+[21Dec2024 02:19:27.428] [ForkJoinPool.commonPool-worker-6/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> los fucilas en el aire
+[21Dec2024 02:20:13.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:38683] logged in with entity id 4558 at (-1571.0854800910654, 59.0, 775.0895892772488)
+[21Dec2024 02:20:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[21Dec2024 02:20:15.621] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:21:28.230] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[21Dec2024 02:21:30.805] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> me dio whiter
+[21Dec2024 02:21:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: polillo al final si se unio a su team riot?
+[21Dec2024 02:21:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ClinicaSanPablo: polillo al final si se unio a su team riot?
+[21Dec2024 02:21:46.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ArazibeMoney50_: polillo al final si se unio a su team riot?
+[21Dec2024 02:21:54.730] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> nose ni lo vi
+[21Dec2024 02:21:57.373] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si pero lo saque
+[21Dec2024 02:22:04.424] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> xd
+[21Dec2024 02:23:17.622] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[21Dec2024 02:23:24.671] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:23:35.072] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:23:50.370] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:23:54.382] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xD
+[21Dec2024 02:23:57.969] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:25:18.470] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:25:21.330] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> galleta
+[21Dec2024 02:25:32.534] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/9622, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:25:32.535] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/9622, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:25:32.535] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/9622, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[21Dec2024 02:25:32.536] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2941a00a, net.minecraft.world.item.trading.MerchantOffer@5155e94a, net.minecraft.world.item.trading.MerchantOffer@3d3ec762, net.minecraft.world.item.trading.MerchantOffer@3b9018ad] for Humanoid['Kisu'/9622, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[21Dec2024 02:25:33.561] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/9701, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:25:33.562] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/9701, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:25:33.562] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/9701, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:25:33.563] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@13fb68d5] for Humanoid['Endermandrow TSI'/9701, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:25:42.633] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/10171, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 02:25:42.634] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/10171, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 02:25:42.634] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/10171, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 02:25:42.635] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@5c0a8275] for Humanoid['Endermandrow TSI'/10171, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]
+[21Dec2024 02:25:44.021] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:25:48.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[21Dec2024 02:25:59.921] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 02:26:09.587] [Server thread/INFO] [Easy NPC/]: Opening menu 8374a704-56d3-4b33-8a58-1dc399a566c9 for npc 2bce5709-0789-4265-96f7-1b8eba7fb991 and player ServerPlayer['ArazibeMoney50_'/4558, l='ServerLevel[World]', x=18.09, y=65.00, z=-17.83] with DialogMenuHandler{displayName=literal{Endermandrow TSI}[style={color=#FF00FF}]}
+[21Dec2024 02:26:09.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
