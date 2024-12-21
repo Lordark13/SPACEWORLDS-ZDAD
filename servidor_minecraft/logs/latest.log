@@ -1371,3 +1371,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 02:45:30.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
 [21Dec2024 02:46:03.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [21Dec2024 03:06:08.821] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 03:07:42.722] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 03:08:57.707] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> HOLA
+[21Dec2024 03:09:01.031] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> we
+[21Dec2024 03:09:11.554] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> esta vez no venimos a matar
+[21Dec2024 03:09:17.205] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> solo a saludar
+[21Dec2024 03:09:19.372] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> bromita
+[21Dec2024 03:09:56.749] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> como vas?
+[21Dec2024 03:10:00.124] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> bien
+[21Dec2024 03:10:53.548] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> el fin se acerca
+[21Dec2024 03:10:56.453] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> para todos
+[21Dec2024 03:11:02.516] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> alv :v
+[21Dec2024 03:11:10.474] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> xd
+[21Dec2024 03:11:49.527] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> mira para que si nos creas
+[21Dec2024 03:12:00.555] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> toma
+[21Dec2024 03:12:06.101] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> waos
+[21Dec2024 03:12:57.103] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> quieres que nos vallamos?
+[21Dec2024 03:12:58.105] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> xd
+[21Dec2024 03:13:11.933] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> pos si no van a ahcer nada malo, normal
+[21Dec2024 03:13:16.273] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@20b81c51]Trying to start horde event on day 110 with nextDay 110 and time 18000
+[21Dec2024 03:13:16.274] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@2f4599f1
+[21Dec2024 03:13:16.276] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[21Dec2024 03:13:16.276] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[21Dec2024 03:13:16.277] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 80
+[21Dec2024 03:13:16.277] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 80
+[21Dec2024 03:13:16.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:13:16.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:13:16.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 110
+[21Dec2024 03:13:16.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 110
+[21Dec2024 03:13:18.117] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> a
+[21Dec2024 03:13:19.109] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> mira
+[21Dec2024 03:13:34.863] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te iba a robar esto... pero que quieres acambio de estas balas?
+[21Dec2024 03:14:06.325] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:14:06.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:14:06.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 110
+[21Dec2024 03:14:06.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 110
+[21Dec2024 03:14:08.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:51037] logged in with entity id 47707 at (-1326.300000011921, 61.0, 630.6999999880791)
+[21Dec2024 03:14:08.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[21Dec2024 03:14:10.035] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> pos, como consiguieron esa armadura XD
+[21Dec2024 03:14:18.976] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> matando zombies
+[21Dec2024 03:14:23.012] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> es muy rara
+[21Dec2024 03:14:26.677] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[21Dec2024 03:14:36.529] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> que quieres acambio?
+[21Dec2024 03:14:50.782] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> pues me puedes dar una escopeta?
+[21Dec2024 03:14:56.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:14:56.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:14:56.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 110
+[21Dec2024 03:14:56.334] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 110
+[21Dec2024 03:15:20.954] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> te puedo dar un rpg
+[21Dec2024 03:15:25.787] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> con 7 misiles
+[21Dec2024 03:15:30.052] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> 4
+[21Dec2024 03:15:36.199] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> pues vale
+[21Dec2024 03:15:46.371] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:15:46.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:15:46.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 110
+[21Dec2024 03:15:46.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 110
+[21Dec2024 03:15:52.887] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> si tienes mas dime
+[21Dec2024 03:15:59.106] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> ok
+[21Dec2024 03:16:02.834] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "zombie_" (that team probably doesn't exist)
+[21Dec2024 03:16:17.683] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> yo q tu rajo de aca
+[21Dec2024 03:16:20.934] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> ta repleto de zmobies afuera xd
+[21Dec2024 03:16:24.786] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> alv y esa orda?
+[21Dec2024 03:16:36.342] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:16:36.342] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:16:36.342] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 110
+[21Dec2024 03:16:36.343] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 110
+[21Dec2024 03:16:48.533] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mare pinches ordas
+[21Dec2024 03:16:55.561] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> su sabe no es nada segura
+[21Dec2024 03:17:15.050] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> dreu eres deku JAJAJAJ
+[21Dec2024 03:17:21.183] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ALV Y ESO?
+[21Dec2024 03:17:22.787] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <ClinicaSanPablo> buenos a su suerte yo arranco xd
+[21Dec2024 03:17:26.344] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:17:26.344] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 110
+[21Dec2024 03:17:26.345] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 110
+[21Dec2024 03:17:26.345] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 110
+[21Dec2024 03:17:26.945] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Dreoufther> mames :v
