@@ -1,3 +1,4 @@
 [21Dec2024 00:16:48.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClinicaSanPablo lost connection: Disconnected
 [21Dec2024 00:16:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo left the game
 [21Dec2024 00:16:48.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56696ms or 1133 ticks behind
+[21Dec2024 00:27:21.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31b196e0[id=<null>,name=ClinicaSanPablo,properties={},legacy=false] (/127.191.186.119:34179) lost connection: Disconnected
