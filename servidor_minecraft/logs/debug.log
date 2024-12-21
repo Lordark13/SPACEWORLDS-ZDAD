@@ -4830,3 +4830,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 01:18:15.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [21Dec2024 01:23:15.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [21Dec2024 01:23:15.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 01:28:15.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 01:28:15.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 01:33:05.147] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2feb051f]Trying to start horde event on day 70 with nextDay 70 and time 18000
+[21Dec2024 01:33:05.148] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6f8ee7ab
+[21Dec2024 01:33:05.148] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2feb051f]Spawntable is empty, canceling event start.
+[21Dec2024 01:33:15.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[21Dec2024 01:33:15.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[21Dec2024 01:36:26.454] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/59381, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 01:36:26.454] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/59381, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 01:36:26.455] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kisu'/59381, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50].
+[21Dec2024 01:36:26.455] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7741d366, net.minecraft.world.item.trading.MerchantOffer@1400e22e, net.minecraft.world.item.trading.MerchantOffer@738dc7c3, net.minecraft.world.item.trading.MerchantOffer@45e18997] for Humanoid['Kisu'/59381, l='ServerLevel[World]', x=15.50, y=65.00, z=-17.50]
+[21Dec2024 01:36:45.305] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/59459, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] ...
+[21Dec2024 01:36:45.306] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/59459, l='ServerLevel[World]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Dec2024 01:36:45.306] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Endermandrow TSI'/59459, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50].
+[21Dec2024 01:36:45.307] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7b7e0dc6] for Humanoid['Endermandrow TSI'/59459, l='ServerLevel[World]', x=17.50, y=65.00, z=-15.50]

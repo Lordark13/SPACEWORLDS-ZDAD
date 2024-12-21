@@ -105,3 +105,6 @@ Applying script hordes:default for event net.smileycorp.hordes.common.event.Hord
 [net.smileycorp.hordes.hordeevent.capability.HordeEvent@280087a2]Trying to start horde event on day 100 with nextDay 100 and time 18000
 Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@13634b6a
 [net.smileycorp.hordes.hordeevent.capability.HordeEvent@280087a2]Spawntable is empty, canceling event start.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@2feb051f]Trying to start horde event on day 70 with nextDay 70 and time 18000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6f8ee7ab
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@2feb051f]Spawntable is empty, canceling event start.
